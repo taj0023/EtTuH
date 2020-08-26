@@ -28,8 +28,8 @@ ___
 ___
 ### Usage:
 ```bash
-git clone https://github.com/taj0023/EtTuP.git
-cd EtTuP
+git clone https://github.com/taj0023/EtTuH.git
+cd EtTuH
 pip3 install -r requirements.txt
 python3 ettuh.py 
 ```
