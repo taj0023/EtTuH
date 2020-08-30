@@ -5,7 +5,7 @@
 
 ### Description:-
 #### A simple Python Hash cracker. 
-#### The first tool in EtTu series.   (Pretty sure you know how the name came :) )
+#### The Third tool in EtTu series.   (Pretty sure you know how the name came :) )
 #### Includes MD5, SHA1, SHA224, SHA384, SHA256, SHA512.  (For now.)
 
 
